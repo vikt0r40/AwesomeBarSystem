@@ -6,6 +6,8 @@ public class Main {
 	// write your code here
         System.out.println("test");
         System.out.println("Viktor");
-        System.out.println("Todorov");
+
+        int a = 10;
+        int b = 20;
     }
 }
